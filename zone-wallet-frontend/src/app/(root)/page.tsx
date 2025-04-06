@@ -1,8 +1,15 @@
+
 import React from 'react'
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <section className="home">
+        <div className='home-content'>
+          <header className='home-header'>
+        
+          </header>
+        </div>
+    </section>
   )
 }
 
